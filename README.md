@@ -4,7 +4,7 @@ Submission for Project 2 of Spring 2026 MA705 Class
 ## File structure
 - Original (Unmodified) data and the links to hosting sources are available in [The Original Data Folder](OriginalData) and [Sources document](OriginalData/sources.md), respectively
 - Merged Dataset, as created by [The Setup notebook](Setup.ipynb) can be found in [The Modified Data Folder](ModifiedData)
-- [The Report](Report.docx), [The Setup notebook](Setup.ipynb), Graphing Notebook (WIP) and Analysis Notebook (WIP) can be found in the root directory
+- [The Report](Report.docx), [The Setup notebook](Setup.ipynb), [Graphing Notebook](Graphing.ipynb) and [Analysis Notebook](Analysis.ipynb) can be found in the root directory
 
 ## ToDo:
 - [ ] Create analysis notebook that identifies correlation of GDP per capital and happiness and GDP per capita's weight in calculating Happiness Score
